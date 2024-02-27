@@ -3,6 +3,6 @@
  Then compose your message and store it in a new variable called message. Print your message.
  */
 let Famous_Person = "Hazrat Muhammad SAW";
-let Message = `${Famous_Person} Feed the hungry and visit a sick person, and free the captive,
+let Message = `${Famous_Person}: Feed the hungry and visit a sick person, and free the captive,
  if he be unjustly confined.`;
 console.log(Message);
